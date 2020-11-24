@@ -15,7 +15,7 @@ def pop_with_args(array)
 end
 
 def shift_with_args(array)
-  array.shift
+  array.shift(array)
 end
 #def using_pop(array)
 #continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
